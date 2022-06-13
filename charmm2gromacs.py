@@ -1,4 +1,10 @@
 """
+
+This version was altered by Liam Haas-Neill June 13, 2022. 
+It currently works in python3 on the sample files in this repo
+
+
+
 Script for parsing charmm force field to gromacs format
 inparameters:
 			command line parameters:
